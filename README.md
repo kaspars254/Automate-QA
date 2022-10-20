@@ -2,7 +2,7 @@
 
 ## Requiremnts
 
-< PHP version 8.1 and node v16.14.2
+> PHP version 8.1 and node v16.14.2
 
 ## Steps
 
