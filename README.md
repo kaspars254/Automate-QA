@@ -1,8 +1,9 @@
 # Automate-QA
 
-1. requirements - PHP version 8.1 and node v16.14.2
+Requirements - PHP version 8.1 and node v16.14.2
 
 Steps
+
 1. Clone repository using "git clone"
 
 2. Open terminal and write
