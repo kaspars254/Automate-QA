@@ -1,6 +1,6 @@
 # Automate-QA
 
-## Requiremnts
+## Requirements
 
 - PHP version 8.1 and node v16.14.2
 
