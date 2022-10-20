@@ -2,7 +2,7 @@
 
 Requirements - PHP version 8.1 and node v16.14.2
 
-Steps
+#h1 Steps
 
 1. Clone repository using "git clone"
 
